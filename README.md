@@ -9,3 +9,5 @@ An Indonesian company wants to provide glasses for all of its employees who wear
 *Problem Statement*
 
 Classifying whether employees wear glasses or not by using European people's face data.
+
+## PLEASE OPEN THE IPYNB FILE FOR UNDERSTANDING
