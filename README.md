@@ -1,4 +1,4 @@
-# Image Classification Glasses or No Glasses with  Many Deep Learning Methods
+# Image Classification Glasses or No Glasses with  Many Deep Learning Models
 
 DATASETS : https://www.kaggle.com/datasets/jorgebuenoperez/datacleaningglassesnoglasses
 
