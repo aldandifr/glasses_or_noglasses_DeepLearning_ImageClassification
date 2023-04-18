@@ -1,0 +1,9 @@
+streamlit
+joblib
+scikit-learn
+pandas
+numpy
+matplotlib
+feature_engine
+tensorflow==2.10.0
+keras
